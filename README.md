@@ -12,7 +12,7 @@
 **Pembagian periode data interaksi:**
 - **P1 (training):** 1-15 Agustus 2015
 - **P2 (testing):** 1-18 September 2015
-- 
+
 Repository tugas UTS Graf Sains Data: analisis graf RetailRocket menggunakan Neo4j, Vector Space Model, cosine similarity, dan rekomendasi item.
 
 ## Dataset
